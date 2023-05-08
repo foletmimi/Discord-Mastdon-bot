@@ -1,7 +1,8 @@
-
+config
 node_modules
 op
 test.js
 test3.js
 token.txt
 .vs
+config/config.json
