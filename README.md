@@ -12,11 +12,11 @@
 
 config/config.jsonのwebhooksにDiscordのWebhookURLを置く
 
-`{
+``{
     "webhooks": ["https://discord.com/api/webhook/012345678/hogehoge", "https://discord.com/api/webhook/123456789/hogeeehoge"]
-}`
+}``
 
-そして起動する
+そして起動する  
  `node main.js`
 
 # 違い
