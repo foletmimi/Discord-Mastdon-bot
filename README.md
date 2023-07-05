@@ -10,10 +10,10 @@
 最初にモジュールのインストール
 > `npm i`  
 
-config/config.jsonのwebhookにDiscordのWebhookURLを置く
+config/config.jsonのwebhooksにDiscordのWebhookURLを置く
 
 `{
-    "webhook": "https://discord.com/api/webhooks/8888888/hogehoge"
+    "webhooks": ["https://discord.com/api/webhook/012345678/hogehoge", "https://discord.com/api/webhook/123456789/hogeeehoge"]
 }`
 
 そして起動する
