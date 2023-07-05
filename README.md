@@ -8,7 +8,7 @@
 
 # 使い方
 最初にモジュールのインストール
-> `npm i`  
+ `npm i`  
 
 config/config.jsonのwebhooksにDiscordのWebhookURLを置く
 
@@ -17,7 +17,7 @@ config/config.jsonのwebhooksにDiscordのWebhookURLを置く
 }`
 
 そして起動する
-> `node main.js`
+ `node main.js`
 
 # 違い
 index.jsとmain.jsが２つあるけどこの２つの違いは**URL**をそのまま吐き出すか、**Embed**を使うかの違いです。
